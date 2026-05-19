@@ -38,13 +38,13 @@ Click on any poster preview to open the full PDF version.
 | Presenter | Poster Preview (Click to open PDF) |
 | :--- | :---: |
 | **Aguado Sergio** | <a href="Posters/Aguado_Sergio.pdf"><img src="Posters/Aguado_Sergio.jpg" width="130" /></a> |
-| **Amer Nermeen** | <a href="Posters/Amer_Nermeen.pdf"><img src="Posters/Amer_Nermeen.jpg" width="130" /></a> *(Missing JPG)* |
+| **Amer Nermeen** | <a href="Posters/Amer_Nermeen.pdf"><img src="Posters/Amer_Nermeen.jpg" width="130" /></a> |
 | **Angela Carfora** | <a href="Posters/Angela_Carfora.pdf"><img src="Posters/Angela_Carfora.jpg" width="130" /></a> |
 | **Bastos Lucas** | <a href="Posters/Bastos_Lucas.pdf"><img src="Posters/Bastos_Lucas.jpg" width="130" /></a> |
 | **Burton Jack** | <a href="Posters/Burton_Jack.pdf"><img src="Posters/Burton_Jack.jpg" width="130" /></a> |
 | **Diethelm Etienne** | <a href="Posters/Diethelm_Etienne.pdf"><img src="Posters/Diethelm_Etienne.jpg" width="130" /></a> |
 | **Fornasiero Alice** | <a href="Posters/Fornasiero_Alice.pdf"><img src="Posters/Fornasiero_Alice.jpg" width="130" /></a> |
-| **Gatica Tomas** | <a href="Posters/Gatica_Tomas.pdf"><img src="Posters/Gatica_Tomas.png" width="130" /></a> *(Missing JPG)* |
+| **Gatica Tomas** | <a href="Posters/Gatica_Tomas.pdf"><img src="Posters/Gatica_Tomas.png" width="130" /></a> |
 | **Loganathan Aswini** | <a href="Posters/Loganathan_Aswini.pdf"><img src="Posters/Loganathan_Aswini.jpg" width="130" /></a> |
 | **Meng Fallon** | <a href="Posters/Meng_Fallon.pdf"><img src="Posters/Meng_Fallon.jpg" width="130" /></a> |
 | **Militello Niccolo** | <a href="Posters/Militello_Niccolo.pdf"><img src="Posters/Militello_Niccolo.jpg" width="130" /></a> |

@@ -59,55 +59,40 @@ Click on any poster preview to open the full PDF version.
 
 <table style="width:100%">
    <tr>
-     <td><img src="Logos/popgenlogo.png" alt="EMBO Course Logo" height="200" width="700"></td> 
-     <td>
-       <a href="https://twitter.com/hashtag/EMBOpopgen?src=hashtag_click">
-         <img src="Logos/tw.png" alt="Twitter/X" height="60" width="60">
-       </a>
-       <b>#EMBOpopgen</b>
-     </td>    
+     <td align="center"><img src="./img/popgenlogo.jpg" alt="EMBO PopGen Logo" height="200" width="700"></td> 
    </tr>
 </table>
 
 <table width="100%">
   <tr>
     <td align="center">
-        <img src="Logos/embo.png" alt="EMBO" height="80" width="300">
-    </td>
-    <td width="50"></td>
-    <td align="center">
       <a href="https://www.associazionegeneticaitaliana.it/">
-        <img src="Logos/AGI.jpeg" alt="AGI" height="100" width="300">
+        <img src="./img/AGI.png" alt="AGI" height="100" width="300">
       </a>
     </td>
     <td width="50"></td>
     <td align="center">
       <a href="https://elixir-europe.org/about-us/who-we-are/nodes/italy">
-        <img src="Logos/elixir.png" alt="ELIXIR" height="100" width="200">
+        <img src="./img/elixir.jpg" alt="ELIXIR" height="100" width="200">
+      </a>
+    </td>
+    <td width="50"></td>
+    <td align="center">
+      <a href="https://www.recas-bari.it/index.php/en/">
+        <img src="./img/Recas.png" alt="RECAS" height="100" width="200">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.recas-bari.it/index.php/en/">
-        <img src="Logos/RECAS.png" alt="RECAS" height="100" width="200">
-      </a>
-    </td>
-    <td width="25"></td>
-    <td align="center">
       <a href="https://www.sibe-iseb.it">
-        <img src="Logos/SIBE.webp" alt="SIBE" height="100" width="200">
+        <img src="./img/SIBE.png" alt="SIBE" height="100" width="200">
       </a>
     </td>
     <td width="25"></td>
     <td align="center">
       <a href="http://www.geneticagraria.it/">
-        <img src="Logos/SSIGA.png" alt="SSIGA" height="120" width="200">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.unina.it">
-        <img src="Logos/UNINA.jpg" alt="UNINA" height="120" width="200">
+        <img src="./img/SIGA.jpg" alt="SIGA" height="120" width="200">
       </a>
     </td>
   </tr>

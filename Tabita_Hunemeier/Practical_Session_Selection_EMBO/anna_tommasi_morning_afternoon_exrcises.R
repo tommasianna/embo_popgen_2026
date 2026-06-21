@@ -583,7 +583,7 @@ A common question in haplotype selection scans is: **Does swapping the REF and A
 
 ---
   
-  ### Questions for Students
+  ### Questions for Students: (do it again at home)
   1. **Explain the physical and mathematical difference between Rsb and XP-nSL. Why does Rsb show a much higher, less noisy peak at the *IGF1* locus in dogs compared to XP-nSL?**
   * *Answer*:
   2. **Does outgroup polarization of a phased VCF file corrupt or destroy the phasing information? Why or why not?**
